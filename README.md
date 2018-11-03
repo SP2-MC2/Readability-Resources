@@ -57,13 +57,7 @@ The code begins processing in ict.py. Please define some constants required in c
 
 ## Authors
 
-Dhruv Kuchhal
-https://github.com/dhruvkuchhal
-
-and 
-
-Lisa Maszkiewicz
-https://github.com/lmasz
+[Dhruv Kuchhal](https://github.com/dhruvkuchhal) and [Lisa Maszkiewicz](https://github.com/lmasz)
 
 
 ## Contact Information
