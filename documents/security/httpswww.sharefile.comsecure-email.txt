@@ -1,0 +1,23 @@
+Encrypting your email isnt as difficult as you might think.
+ Email is the simplest and most familiar way to send a message or a document. But for professionals a variety of industries, such as healthcare, legal, financial services, insurance and more, email alone just isnt enough to keep you and your patients or clients safe.
+ But adding security to email doesnt have to be complicated. You can have secure email, with encrypted email from ShareFile, with just a click. Secure email from ShareFile protects both the message of your email and any attachments using the same encryption as an online bank. Even better, your recipients can reply with encrypted secure email even if they arent ShareFile customers.
+ Its a single click that goes a long way - ShareFile encrypted secure email supports compliance with a variety of industry regulations and ethical guidelines, including FINRA, HIPAA, CFPB, state bar ethics guidelines and more.
+ So how does it work? With ShareFile, there are two ways to send secure email:
+ 1. Secure email from any web browser
+ You can send secure email right from your ShareFile account in any web browser. Just as you can securely share a file with ShareFile - or lots, you can send up to 100 GB at once - you can also click to encrypt the messages you send as well.
+ By using secure email from ShareFile in a web browser, you get encryption and protection for communications without ever need to download or install any software. Its secure email whenever, or wherever, you need it - from any device with an internet connection.
+ 2. Secure email right from Microsoft Outlook
+ If you want the benefits of secure email in a tool you already use, you can get the ShareFile Plugin for Microsoft Outlook, which protects both your email copy and all attachments using encryption in one simple step and offers the security you need without adding any additional steps to your work.
+ Using ShareFile for your secure email needs is the simplest, most effective way to communicate for both you and your recipients, whether they are vendors, clients, colleagues or patients. Secure email from ShareFile is the all-in-one way to keep data - including simple messages - protected.
+ And that's just the beginning. ShareFile also allows you to sync files to the cloud to access them anywere, easily obtain electronic signatures on documents, and send large files up to 100 GB in size. See why thousands of businesses use ShareFile everyday. Try it free!
+ Encrypted Email FAQs
+ What is encrypted email?
+ Encrypted email is a method of disguising the contents of an email and making it safe from eavesdropping as it moves around in the internet. It is done to protect potentially sensitive information from landing in any hand other than the intended recipients. Authentication is required to read an encrypted email.
+ Encrypted emails are not just for those who are likely to email sensitive information such as login credentials, social security numbers, and bank account numbers. People with malicious intent such as hackers can gain access to email accounts and download important attachments and files which might compromise the owner of the email in a big way. It's not out of the realm of possibility for someone to hijack the whole email account and use it as if it was theirs.
+ Email has always been a vulnerable channel of communication, especially when sent over unsecured wi-fi or public networks. Even those sent within secure company networks can still be intercepted by other users. Through encryption, the contents of the emails will be unreadable as they are transmitted from the origin to the destination and if someone were to try to intercept the emails, they will not be able to interpret the contents therein.
+ How does encrypted email look on the receiving end?
+ How an encrypted email looks like and how it is accessed may vary from one encryption service to another. However, more than likely, you will receive a notification telling you that you have received an encrypted email along with an access link.
+ When you click the link to read the encrypted email, an account verification screen will appear, and if you do not have an account with the email encryption company or the tool used to decrypt the message, you will be required to create one, after which you will log in and access the contents of the email. Once you access the message, you will be able to read it as normal.
+ Further Reading:
+ ShareFile Blog: How to install the Plugin for Microsoft Outlook and Encrypted Email on any PC
+ ShareFile Knowledge Base: How to use ShareFile Encrypted Email 

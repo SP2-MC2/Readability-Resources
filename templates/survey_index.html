@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+{% block survey %}
+<div id="surveyContainer", style="line-height: 2; line-height: 2.5; font-family: Arial;">
+  <form id ="cloze">
+    {% if cloze_variant_code == 'a' %}
+    <h3><font color='#CB4335'><b>Instructions:</b><br>- Please select the answer choice that you believe best completes the sentence for each blank below.<br>- Filling all blanks is mandatory.</font></h3>
+    {% elif cloze_variant_code == 'b' %} 
+    <h3><font color='#CB4335'><b>Instructions:</b><br>- Please enter the word that you think completes the sentence for each blank below. If you do not know what should go in the blank, enter N/A.<br>- Filling all blanks is mandatory.</font></h3>
+    {% endif %}
+    <hr>
+      <p>Q{{ q_no }}/{{ total_q }}.
+        {% for article_segment in doc['article_segments'] %}
+          {{article_segment['sentence']}}
+          {% if 'blank_id' in article_segment %}
+            {% if cloze_variant_code == 'a' %}
+              <select name="{{ article_segment['blank_id'] }}" required>
+                  <option value=""></option>
+                {% for choice in article_segment['choices'] %}
+                  <option value="{{choice}}">{{choice}}</option>
+                {% endfor %}
+              </select>
+            {% elif cloze_variant_code == 'b' %}  
+              <input type="text" name="{{ article_segment['blank_id'] }}" required>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </p>
+      <hr>
+    <input type="hidden" value="{{mturk_id}}" name="mturk_id" />
+    <input type="hidden" id="tab_focus_id" name="tab_focus_time" />
+    <input type="submit">
+  </form>
+</div>
+{% endblock %}

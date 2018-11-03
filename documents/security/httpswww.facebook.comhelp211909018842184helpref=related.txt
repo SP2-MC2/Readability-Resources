@@ -1,0 +1,12 @@
+Only an admin can remove or block a member from a group. To remove or block a member:
+ Click Members at the top of your group.
+ Find the member you want to remove.
+ Click next to the member's name and select Remove from Group.
+ Click to check the box if you'd like to delete posts, comments and pending member invites from the person you'd like to remove or block.
+ To remove this person from other groups you manage, you may select the option to apply these changes to other groups you manage.
+ Click to check the box next to Block Permanently to block a member you're removing.
+ Click Confirm.
+ Removed members will have to request to join the group again if they wish to rejoin. Blocked members won't be able to find the group in search or see any of its content, and they can't be added to the group again by members.
+ Click Members at the top of your group.
+ Click Blocked at the top.
+ Click Remove Block next to the person's name. 

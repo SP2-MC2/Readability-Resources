@@ -1,0 +1,45 @@
+Tableau Help > Tableau Server Help >
+ Server Administrator Guide > Security > Data Security
+ Tableau provides several ways for you to control which users can see which data. For data sources that connect to live databases, you can also control whether users are prompted to provide database credentials when they click a published view. The following three options work together to achieve different results:
+ Database login account: When you create a data source that connects to a live database, you choose between authenticating to the database through Windows NT or through the databases built-in security mechanism.
+ Authentication mode: When you publish a data source or a workbook with a live database connection, you can choose an Authentication mode. Which modes are available depends on what you choose above.
+ User filters: You can set filters in a workbook or data source that control which data a person sees in a published view, based on their Tableau Server login account.
+ The table below outlines some dependencies with the above options:
+ Database Connection Options
+ Data Security Questions
+ Database login account uses...
+ Authentication mode
+ Is database security possible per Tableau Server user?
+ Are user filters the only way to restrict which data each user sees?
+ Are web caches shared among users?
+ Window NT Integrated Security (Windows Authentication)
+ Server Run As account
+ No
+ Yes
+ Yes
+ Impersonate via server Run As account
+ Yes
+ No*
+ No
+ Viewer Credentials
+ Yes
+ No*
+ No
+ Username and Password
+ Prompt user: Viewers are prompted for their database credentials when they click a view. Credentials can be saved.
+ Yes
+ No
+ No
+ Embedded credentials: The workbook or data source publisher can embed their database credentials.
+ No
+ Yes
+ Yes
+ Impersonate via embedded password: Database credentials with impersonate permission are embedded.
+ Yes
+ No*
+ No
+ * Because it can create unexpected results, Tableau recommends that you not use this authentication mode with user filters.
+ User filters, the embedded credentials option and the impersonation modes have similar effectswhen users click a view, they are not prompted for database credentials and they see only the data that pertains to them. However, user filters are applied in the workbook by authors, and the impersonation authentication modes rely on security policies defined by administrators in the database itself.
+ Some of the options described above require configuration steps that must happen during Tableau Server Setup or before you publish a workbook or data source. See the following topics for more information:
+ User Filters and Data Source Filters in the Tableau Help.
+ Tableau Server is a product of Tableau Software. Legal & Privacy 

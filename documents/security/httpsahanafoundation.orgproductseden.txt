@@ -1,0 +1,35 @@
+Eden: Emergency Development ENvironment) for Rapid Deployment Humanitarian Response Management
+ Eden is a flexible humanitarian platform with a rich feature set which can be rapidly customized to adapt to existing processes and integrate with existing systems to provide effective solutions for critical humanitarian needs management either prior to or during a crisis.
+ Sahana Edens features are designed to help Disaster and Emergency Management practitioners to better mitigate, prepare for, respond to and recover from disasters more effectively and efficiently. Sahana Eden can provide valuable solutions for practitioners in Emergency Management, Humanitarian Relief and Social Development domains.
+ Sahana Eden Brochure
+ Eden Deployments
+ Eden software was first deployed for disaster responses purposes following the 2010 Haiti earthquake for public use and also to support a the food distribution programs of the UN World Food Programme. Since the Haiti earthquake, Eden has been used for the following disasters by individuals, organizations and governments:
+ Wildfires in Chile  2012
+ Earthquake and Tsunami in Japan  2011
+ Flooding in Colombia  2011
+ Flooding in Venezuela  2010
+ Flooding in Pakistan  2010
+ Hurricane in Veracruz, Mexico  2010
+ Eden has also been adopted by such organizations as the Asian Disaster Preparedness Center (ADPC) for its Disaster Risk Reduction Projects Portal, the IFRC Asia Pacific Disaster Management Unit, Sahana Taiwan (Academia Sinica) and supports Healthscapes at the University of Wisconsin-Madison.
+ Edens Features
+ Sahana Eden contains a number of different modules which can be configured to provide a wide range of functionality. Its main capabilities are:
+ Organization Registry  Creates database of organizations to help facilitate coordination; allows organizations to record their Offices, Warehouse and Field Sites including their locations so they can be mapped as well as links to other modules such as Human Resources, Assets and Inventory.
+ Project Tracking  By telling you Whos Doing What, Where, and When, Sahana Eden provides a valuable tool to help organizations responding to disasters know where the greatest needs are and coordinate with others who are engaged in similar work.
+ Human Resources  Manages the people involved. It tracks where they are, what skills they have and help ensure that everyone is effectively engaged with the work that needs to be done; includes both staff and volunteer management capabilities.
+ Inventory  Record and automates transactions for sending and receiving shipments; supports multiple Catalogs of Items as well as providing alternative items to ensure more effective use of supplies. Allows organizations to manage requests, donations and warehouses.
+ Assets  Manages assets such as vehicles, communications equipment and generators; tracks where they are, who they have been assigned to, and what condition they are in. This ensures that assets are used effectively and efficiently.
+ Assessments  Collects and analyzes information from assessments to help organizations more effectively plan their disaster management activities. Data can either be entered into an interactive web form or imported via an Excel template.
+ Shelter Management  Manages information about the location and status of temporary shelters, including resources required, staff and volunteers assigned to the shelter, and provides a check-in/check-out system for shelterees and their families allowing persons to be tracked and shelter populations to be monitored.
+ Scenarios & Events  Plan for different scenarios, including recording what human resources, assets, facilities and tasks will be needed to effectively respond.
+ Mapping  Sahana Eden has fully integrated mapping functionality which allows any location-based data to be visualized on a map. Maps provide situational awareness which is essential when either planning to prepare for or respond to a disaster.
+ Messaging  Provides support for messages to be sent by Email, SMS, Twitter and Google Talk. Distribution Groups can be set up to allow messages to be easily sent to many people at once. Interactive messages allow people to send short message queries to Sahana Eden and receive automatic responses.
+ Getting Started
+ Use the Sahana Eden Essential Guide to get started working with Sahana Eden.
+ This online book has been imagined to meet the needs of decision makers looking for an appropriate solution for disaster management, those who are deploying Sahana Eden, and those who are extending Sahana Eden for more specialized solutions or want to contribute to the project. It contains everything you need to know to install, configure, deploy, customize and develop new modules in Sahana Eden, as well as how to get support form the Sahana Software Foundation and the developer community.
+ Developers
+ The Sahana Eden codebase is hosted at Github. Please read the developer instructions for working with Git.
+ The Sahana Eden project site includes an integrated technical wiki, timeline, roadmap and ticketing system.
+ Installing Sahana Eden
+ Developers should follow instructions for installing Eden from the Sahana Eden Essential Guide or from the Eden wiki.
+ We recommend installing the latest version of Eden using the Instructions in the Essential Guide.
+ Installation instructions are available for Windows, Linux and OSX. 

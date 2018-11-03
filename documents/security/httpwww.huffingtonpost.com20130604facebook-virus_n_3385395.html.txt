@@ -1,0 +1,9 @@
+If you click on the wrong link on Facebook, a virus may find its way into your bank account and drain it of all your money. The New York Times Bits Blogs details how a 6-year-old virus called Zeus is all over Facebook right now. Heres how to avoid it.
+ After a malicious link is clicked, Zeus will remain inactive on your computer until someone logs into a bank account, swiping usernames and passwords so hackers can access it. A security firm called Trend Micro has found Zeus-laden links with increasingly frequency on Facebook, including on one football fan pages.
+ Of course, there is no fool-proof way to avoid viruses like this one. But there are three ways to avoid becoming the victim of this particular one:
+ 1. Avoid Windows computers if possible.
+ Business Insiders Kevin Smith notes that Zeus targets machines running on Windows, and does not work on Mac OS X or Linux. Its usually not feasible to switch operating systems, but its one way of avoiding the virus. However, variants of Zeus that can infect Android and Blackberry smartphones have been found, so it is possible that a modified version of the virus is at work here as well.
+ 2. Dont click on unknown links.
+ This is Virus Avoidance 101, but its still important to reiterate. Many people dont realize that all it takes is clicking on a bad link to infect their computer with malware. Rule of thumb: If you dont know the links sender or the link looks strange at all, do not click. Its not worth the risk.
+ 3. Make sure your bank has 2-step verification.
+ The more secure your banks website is, the safer your money is. Talk to your bank and find the safest way to access your statements, which may be by phone or in person. If you are using online banking, make sure that you never leave yourself logged-in. 

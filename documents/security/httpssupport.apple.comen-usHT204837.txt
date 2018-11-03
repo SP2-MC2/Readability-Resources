@@ -1,0 +1,31 @@
+FileVault full-disk encryption (FileVault 2) uses XTS-AES-128 encryption with a 256-bit key to help prevent unauthorized access to the information on your startup disk.
+ Turn on and set up FileVault
+ FileVault 2 is available in OS X Lion or later. When FileVault is turned on, your Mac always requires that you log in with your account password.
+ Choose Apple menu () > System Preferences, then click Security & Privacy.
+ Click the FileVault tab.
+ Click the Lock button, then enter an administrator name and password.
+ Click Turn On FileVault.
+ If other users have accounts on your Mac, you might see a message that each user must type in their password before they will be able to unlock the disk. For each user, click the Enable User button and enter the user's password. User accounts that you add after turning on FileVault are automatically enabled.
+ Choose how you want to be able to unlock your disk and reset your password, in case you ever forget your password:
+ If you're using OS X Mavericks, you can choose to store a FileVault recovery key with Apple by providing the questions and answers to three security questions. Choose answers that you're sure to remember.*
+ If you're using OS X Yosemite or later, you can choose to use your iCloud account to unlock your disk and reset your password.*
+ If you don't want to use iCloud FileVault recovery, you can create a local recovery key. Keep the letters and numbers of the key somewhere safeother than on your encrypted startup disk.
+ If you lose or forget both your account password and your FileVault recovery key, you won't be able to log in to your Mac or access the data on your startup disk.
+ When FileVault setup is complete, your Mac restarts and asks you to log in with your account password. Your password unlocks your disk and allows your Mac to finish starting up. FileVault requires that you log in every time your Mac starts up, and no account is permitted to log in automatically.
+ After your Mac starts up, encryption of your startup disk occurs in the background as you use your Mac. This takes time, and it happens only while your Mac is awake and plugged in to AC power. You can check progress in the FileVault section of Security & Privacy preferences. Any new files that you create are automatically encrypted as they're saved to your startup disk.
+ Reset your password or change your FileVault recovery key
+ If you forget your account password or it doesn't work, you might be able to reset your password.
+ If you want to change the recovery key used to encrypt your startup disk, turn off FileVault in Security & Privacy preferences. You can then turn it on again to generate a new key and disable all older keys.
+ Turn off FileVault
+ If you no longer want to encrypt your startup disk, you can turn off FileVault:
+ Choose Apple menu > System Preferences, then click Security & Privacy.
+ Click the FileVault tab.
+ Click the Lock button, then enter an administrator name and password.
+ Click Turn Off FileVault.
+ Restart your Mac.
+ After your Mac starts up, decryption of your startup disk occurs in the background as you use your Mac. This takes time, and it happens only while your Mac is awake and plugged in to AC power. You can check progress in the FileVault section of Security & Privacy preferences.
+ Learn more
+ Learn how to create and deploy a FileVault recovery key for Mac computers in your company, school, or other institution.
+ If you're using FileVault in Mac OS X Snow Leopard, you can upgrade to FileVault 2 by upgrading to OS X Lion or later. After upgrading OS X, open FileVault preferences and follow the onscreen instructions to upgrade FileVault.
+ RAID partitions or non-standard Boot Camp partitions on the startup drive might prevent OS X from installing a local Recovery System. Without a Recovery System, FileVault won't encrypt your startup drive. Learn more.
+ * If you store your recovery key with Apple or your iCloud account, there's no guarantee that Apple will be able to give you the key if you lose or forget it. Not all languages and regions are serviced by AppleCare or iCloud, and not all AppleCare-serviced regions offer support in every language. If you set up your Mac for a language that AppleCare doesn't support, then turn on FileVault and store your key with Apple (OS X Mavericks only), your security questions and answers could be in a language that AppleCare doesn't support. 

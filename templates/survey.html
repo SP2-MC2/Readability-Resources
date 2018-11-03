@@ -1,0 +1,67 @@
+{% extends "layout.html" %}
+{% block survey %}
+<div id="surveyContainer", style="line-height: 2; line-height: 2.5; font-family: Arial;">
+  <form id ="cloze" action="{{ url_for('cloze', cloze_variant_code = cloze_variant_code, mturk_id = mturk_id) }}" method="post">
+    {% if cloze_variant_code == 'a' %}
+    <h3><font color='#CB4335'><b>Instructions:</b><br>- Please select the answer choice that you believe best completes the sentence for each blank below.<br>- Filling all blanks is mandatory.</font></h3>
+    {% elif cloze_variant_code == 'b' %} 
+    <h3><font color='#CB4335'><b>Instructions:</b><br>- Please enter the word that you think completes the sentence for each blank below. If you do not know what should go in the blank, enter N/A.<br>- Filling all blanks is mandatory.</font></h3>
+    {% endif %}
+    <hr>
+      <p>Q{{ q_no }}/{{ total_q }}.
+        {% for article_segment in doc['article_segments'] %}
+          {{article_segment['sentence']}}
+          {% if 'blank_id' in article_segment %}
+            {% if cloze_variant_code == 'a' %}
+              <select name="{{ article_segment['blank_id'] }}" required>
+                  <option value=""></option>
+                {% for choice in article_segment['choices'] %}
+                  <option value="{{choice}}">{{choice}}</option>
+                {% endfor %}
+              </select>
+            {% elif cloze_variant_code == 'b' %}  
+              <input type="text" name="{{ article_segment['blank_id'] }}" required>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </p>
+      <hr>
+    <input type="hidden" value="{{mturk_id}}" name="mturk_id" />
+    <input type="hidden" id="tab_focus_id" name="tab_focus_time" />
+    <input type="submit">
+  </form>
+</div>
+<script>
+  var start_time = Math.floor(Date.now() / 1000);
+  onWindowFocus.time = start_time;
+  function onWindowFocus() {
+    var time = Math.floor(Date.now() / 1000);
+    onWindowFocus.time = time;
+  }
+  onWindowBlur.time = 0;
+  function getFocusTime() {
+    var time = Math.floor(Date.now() / 1000);
+
+    var focus_time = time - onWindowFocus.time;
+    var prev_focus_time = onWindowBlur.time;
+    return prev_focus_time + focus_time;
+  }
+
+  function onWindowBlur() {
+    onWindowBlur.time = getFocusTime(); // prev_focus_time + focus_time;
+    document.getElementById('tab_focus_id').value=onWindowBlur.time;
+
+  }
+  function onFormSubmit() {
+    var time = getFocusTime();
+    document.getElementById('tab_focus_id').value=time;
+
+  }
+
+  window.onfocus = onWindowFocus;
+  window.onblur = onWindowBlur;
+  var form = document.getElementById("cloze");
+  form.addEventListener("submit", onFormSubmit);
+
+</script>
+{% endblock %}

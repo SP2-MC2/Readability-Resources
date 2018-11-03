@@ -1,0 +1,171 @@
+Sponsored by
+ THE GROWING THREAT OF MOBILE DEVICE SECURITY BREACHES A GLOBAL SURVEY OF SECURITY PROFESSIONALS
+  2017 Dimensional Research. All Rights Reserved. www.dimensionalresearch.com
+ Dimensional Research | April 2017
+ It is common knowledge that mobile devices are integral to both our personal and business lives. With cyberattacks against individuals, businesses, and government entities increasing in frequency and sophistication, it is no surprise that mobile devices are now considered by threat actors to be one of the weakest links in the IT infrastructure of most enterprises. This report finds that 2 out of 10 companies have already experienced a mobile cyberattack, with an even larger number completely unaware whether they have been breached. While the cost of a mobile breach is similar to that of a desktop or laptop breach, a third of those surveyed stated the risk of data loss is higher on mobile devices. Meanwhile, two thirds of the surveys participants stated they are doubtful that their organizations can defend against a mobile cyberattack, while nearly all security professionals believe the number of mobile attacks will increase rapidly.
+ Just over one third of companies have deployed a mobile threat defense solution, with a lack of resources cited as the primary reason for going without advanced mobile security. That said, this research found that just over half of companies are increasing budget and resources to secure mobile devices compared to previous years. Currently, the threat is growing but focus and resource allocation appears insufficient to properly secure mobile devices.
+ Key Findings  Security Professionals Unprepared and Not Confident
+ - 64% of participants are doubtful their organizations can prevent a mobile cyberattack - Over 1/3 of companies fail to adequately secure mobile devices - More than half believe risk of data loss is equal to or greater than desktops/laptops
+  Mobile Devices to Come Under Increasing Attacks - 20% of companies mobile devices have been breached, and 24% dont know whether theyve experienced
+ an attack - 94% expect the frequency of mobile attacks to increase - 79% state the difficulty of securing mobile devices is growing
+ Sponsored by
+ Page 2
+ Dimensional Research | April 2017
+ www.dimensionalresearch.com  2017 Dimensional Research.All Rights Reserved.Page 3
+ THE GROWING THREAT OF MOBILE DEVICE SECURITY BREACHES A GLOBAL SURVEY OF SECURITY PROFESSIONALS
+ Detailed Findings 20% of survey respondents stated that their company has already experienced a mobile device security breach, while just over half stated they have not. Perhaps the most surprising finding is that 24% of the security professionals are unaware if they have been compromised. Often not knowing you have been hacked is worse than knowing. These security professionals have little visibility into the security of the mobile devices in their businesses. Keep in mind that many of the recent and most highly-publicized security breaches revealed that the hacked businesses were oblivious to the breach for quite some time.
+ When security professionals were asked directly if their companys mobile devices were adequately secured, only 64% stated they were. Approximately 1/3 of the companies are aware that mobile devices and the data on them are currently at risk  a risk they know and state could be better mitigated. Perhaps some companies believe the data loss or pirated corporate access via mobile devices is just not that dangerous.
+ Yes 64%
+ No 36%
+ In your opinion, does your company adequately secure mobile devices that connect to corporate resources?
+ Yes 20%
+ No 56%
+ I don't know 24%
+ Has your company ever experienced a security breach on or from a mobile device?
+ Dimensional Research | April 2017
+ www.dimensionalresearch.com  2017 Dimensional Research.All Rights Reserved.Page 4
+ THE GROWING THREAT OF MOBILE DEVICE SECURITY BREACHES A GLOBAL SURVEY OF SECURITY PROFESSIONALS
+ 17% of the participants felt the risk of data loss on mobile devices was equal to the risk of data loss with desktop and laptop computers. However, 34%, representing one in three participants, believe the potential for data loss is greater on mobile devices. Perhaps the high level of concern is based on the frequency of mobile device loss or theft, as well as the limited security measures companies use to protect enterprise mobile devices.
+ When posed with the question What types of attacks have occurred on mobile devices at your company? it was expected that one or two modes of attack would rise to the top. Instead, security professionals reported a broad range of successful attacks against their organizations mobile devices. This places increased challenges not only on security professionals, but on defensive strategies and solutions for mobile devices.
+ 41%
+ 43%
+ 54%
+ 54%
+ 58%
+ 0% 10% 20% 30% 40% 50% 60% 70%
+ Key logging and credential theft
+ Intercepted calls and text messages over a mobile carriers network (SS7 Attacks)
+ Network attacks (through connections to malicious WiFi, or Man-in-the-Middle attacks)
+ Phishing using text messages (SMS)
+ Malware
+ What types of attacks have occurred on mobile devices at your company?
+ Mobile devices 34%
+ Desktops / laptops 49%
+ Risk for data loss is the same for mobile
+ devices and computers
+ 17%
+ In your experience, which has a greater chance for data loss: mobile devices or desktops / laptops?
+ Dimensional Research | April 2017
+ www.dimensionalresearch.com  2017 Dimensional Research.All Rights Reserved.Page 5
+ THE GROWING THREAT OF MOBILE DEVICE SECURITY BREACHES A GLOBAL SURVEY OF SECURITY PROFESSIONALS
+ It is likely the combination of successful mobile attacks, lack of visibility and inadequately secured devices drove 64% of those surveyed to state they are not confident they can prevent a cyberattack targeted at mobile devices. Another factor contributing to the lack of confidence is the constant evolution of threats and the relentless barrage from hackers. Company executives should be highly concerned, as only one of three of those charged with securing devices used in the enterprise are confident they can do so.
+ The future looks more daunting and the risk appears to be increasing, as 94% of those surveyed expect the frequency of mobile device attacks to increase, and 79% expect the task of securing mobile devices to become increasingly difficult. Given the lack of confidence today and the growing threats in the future, it appears that mobile device security will become an increasingly vulnerable spot in most companies cybersecurity defenses.
+ Yes 36%
+ No 49%
+ I don't know 15%
+ Are you confident that your organization can prevent an advanced cyberattack on employees mobile devices?
+ Yes 94%
+ No 6%
+ Based on your experience will the frequency and types of attacks targeting mobile devices increase over the next 12 months?
+ Yes 79%
+ No 21%
+ In your opinion, will it be more challenging to secure mobile devices in the future than it is currently?
+ Dimensional Research | April 2017
+ www.dimensionalresearch.com  2017 Dimensional Research.All Rights Reserved.Page 6
+ THE GROWING THREAT OF MOBILE DEVICE SECURITY BREACHES A GLOBAL SURVEY OF SECURITY PROFESSIONALS
+ But often the time, budget, and resources focused on enterprise security initiatives are directly related to the cost of a breach on the company. In the figure below, participants quantified the cost of a cyberattack to an enterprise mobile device and compared it to that of a desktop or laptop attack. While at the bottom end we see a cheaper cost per breach for mobile devices, the rest of the data shows that the costs are somewhat similar. While some of the data indicates that a mobile breach may cost less, it is not a dramatic difference, with over 20% of the participants saying that a mobile breach could cost the company more than $500 thousand dollars. Its clear that the surveys respondents consider the data lost in a potential cyberattack on enterprise mobile highly valuable. That perceived value of enterprise data from such a mobile attack is obviously shared by hackers, who have clearly increased their focus of attacks on mobile devices.
+ Earlier in this report, those surveyed showed a lack of confidence in their current mobile device security and were extremely doubtful of their organizations ability to prevent an attack. This finding  that only 38% of the companies have a dedicated mobile device security solution  may be the key reason. More than half the organizations surveyed use only enterprise mobile management platforms to protect devices against advanced cyberattacks.
+ 12% 13% 11%
+ 15% 16%
+ 19%
+ 15%
+ 24%
+ 11% 12%
+ 16% 14%
+ 12% 11%
+ 0%
+ 5%
+ 10%
+ 15%
+ 20%
+ 25%
+ 30%
+ Less than $10K
+ $10-25K $25-50K $50-100K $100-500K $500K-1M More than $1M
+ How much do you estimate a desktop/laptop breach vs. a mobile breach would cost your organization in US dollars?
+ Desktop
+ Mobile
+ Yes 38%
+ No 54%
+ I don't know 8%
+ Excluding MDM/EMM, has your company deployed a mobile security solution to protect smartphones and tablets from advanced mobile cyberattacks?
+ Dimensional Research | April 2017
+ www.dimensionalresearch.com  2017 Dimensional Research.All Rights Reserved.Page 7
+ THE GROWING THREAT OF MOBILE DEVICE SECURITY BREACHES A GLOBAL SURVEY OF SECURITY PROFESSIONALS
+ We then asked survey participants why their company hadnt deployed a mobile device security solution. Over 60% of respondents indicated some lack of resources (i.e. budget, shortage of personnel) or lack of experience as the key drivers. Only 37% made a conscious appraisal for their company and decided there was not enough risk to warrant the investment.
+ With the generally accepted rise in mobile malware and attacks, it was not surprising that 62% of companies are dedicating more resources to the growing threat. This data supports the earlier finding that resources are constraining the ability to deploy adequate mobile device security solutions. Meanwhile, 8% of the surveyed companies were actually allocating fewer resources to the growing problem of mobile security.
+ 12%
+ 31%
+ 33%
+ 37%
+ 41%
+ 53%
+ 0% 10% 20% 30% 40% 50% 60%
+ Mobile device security solutions are not enterprise-ready
+ MDM/EMM solutions provide enough security
+ Lack of experience implementing a mobile device security solution
+ Not enough risk to warrant a dedicated solution
+ Shortage of resources
+ Lack of budget
+ Which of the following are reasons why your company does not use an advanced mobile cyberattack protection solution?
+ More resources than two years ago
+ 62%
+ Same amount of resources
+ 30%
+ Fewer resources than two years ago
+ 8%
+ In comparison to two years ago, are more or fewer resources focused on mobile device security at your company?
+ Dimensional Research | April 2017
+ www.dimensionalresearch.com  2017 Dimensional Research.All Rights Reserved.Page 8
+ THE GROWING THREAT OF MOBILE DEVICE SECURITY BREACHES A GLOBAL SURVEY OF SECURITY PROFESSIONALS
+ The other component of the lack of resources cited earlier is budgeting. Here, just over half of the surveyed companies (58%) will receive more budget to mitigate the mobile device security threat, and 39% are left with the same budget they had in 2016. It is clear why so many security professionals are doubtful about their ability to prevent cyberattacks on mobile devices given the lack of resources, budget, and dedicated mobile device security solutions.
+ Conclusion This research indicates that many companies are under imminent risk, as 64% of security professionals who are charged with protecting mobile devices from cyberattacks are doubtful they can do so. Over a third of these professionals stated that today their mobile devices are not sufficiently protected or secure. With the proliferation of mobile devices as business tools it is hard to believe than only 38% of the companies have a security solution focused on protecting mobile devices and the data on them. This research shows that security professionals lack the resources and tools to be properly prepared, but even more surprising is that nearly a quarter of them dont know if their companys mobile devices have been breached or are leaking corporate data. Over 1/3 of those surveyed believe that the risk of data loss from a mobile device is higher than desktop or laptop computers.
+ These findings illustrate that the mobile device risk is real for businesses today and that 1 out of every 5 companies admitted to already being breached. The future is bleak for security professionals as 94% shared that their expert perspective is that the frequency of mobile device attacks will increase and 79% stated that it will become even more difficult to secure mobile devices. Without a change to these trends, the frequency and success of mobile devices attacks will rapidly increase. The dichotomy of management trying to control costs and security professionals struggling with insufficient tools to repel attackers is not a new story line in most enterprises. Unfortunately, the story usually ends sadly with a huge, embarrassing event with the press blazing headlines of a costly hack and the company suffering brand damage and loss of customer confidence. Will 2017 be the year of the first humiliating public hack via a mobile device? That remains to be seen.
+ 12% 46% 39% 2% 1%
+ 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+ Has the amount of budget allocated for securing mobile devices increased or decreased over previous years?
+ Significantly increased
+ Slightly increased
+ Stayed the same
+ Slightly decreased
+ Significantly decreased
+ Dimensional Research | April 2017
+ www.dimensionalresearch.com  2017 Dimensional Research.All Rights Reserved.Page 9
+ THE GROWING THREAT OF MOBILE DEVICE SECURITY BREACHES A GLOBAL SURVEY OF SECURITY PROFESSIONALS
+ Survey Methodology Security professionals worldwide from an independent global database were invited to participate in a survey on the topic of mobile device security. A total of 410 participants who have security leadership or frontline responsibilities completed the global survey. Participants represented each of the five continents with the full spectrum of job responsibilities and company sizes. The survey was administered electronically and participants were offered a token compensation for their participation.
+ 3% 1%
+ 2% 2% 2% 2%
+ 3% 3%
+ 4% 5%
+ 6% 7%
+ 9% 11%
+ 13% 15% 15%
+ 0% 2% 4% 6% 8% 10% 12% 14% 16%
+ Other Pharmaceutical
+ Hospitality and Entertainment Non-Profit
+ Media and Advertising Food and Beverage
+ Transportation Telecommunications Energy and Utilities
+ Retail Services
+ Government Education
+ Manufacturing Healthcare Technology
+ Financial Services
+ Industry
+ 500  1,000 10%
+ 1,000  5,000 39%
+ 5,000  10,000 20%
+ More than 10,000 31%
+ Company Size
+ IT security is a substantial part of
+ my job 72%
+ IT security is a minor part of my job
+ 15%
+ IT security is my entire job
+ 13%
+ IT Responsibility
+ Survey Participant Locations
+ Dimensional Research | April 2017
+ www.dimensionalresearch.com  2017 Dimensional Research.All Rights Reserved.Page 10
+ THE GROWING THREAT OF MOBILE DEVICE SECURITY BREACHES A GLOBAL SURVEY OF SECURITY PROFESSIONALS
+ About Dimensional Research Dimensional Research provides practical marketing research to help technology companies make their customers more successful. Our researchers are experts in the people, processes, and technology of corporate IT and understand how IT organizations operate. We partner with our clients to deliver actionable information that reduces risks, increases customer satisfaction, and grows the business. For more information, visit www.dimensionalresearch.com.
+ About CheckPoint Software Technologies Check Point Software Technologies Ltd. is the largest network cybersecurity vendor globally, providing industry- leading solutions and protecting customers from cyberattacks with an unmatched catch rate of malware and other types of threats. Check Point offers a complete security architecture defending enterprises  from networks to mobile devices  in addition to the most comprehensive and intuitive security management. Check Point protects over 100,000 organizations of all sizes.
+ For more information, please visit website 

@@ -1,0 +1,20 @@
+All university-owned computers are required to have McAfee anti-virus software installed. If your PC does not have this software, it can be installed by a desktop consultant. To have this software installed, please call the IT Service Desk at 617.287.5220 or email itservicedesk@umb.edu.
+ More information:
+ Anti-virus tips for prevention and protection
+ Do not open any files attached to an email from an unknown, suspicious or untrustworthy source. Please exercise common sense.
+ Do not answer any emails that look like they are from your system administrators if the email is asking for sensitive or personal information. No systems administrator will ask you for your password or any other sensitive information.
+ Do not open any files attached to an email unless you know what it is, even if it appears to come from a friend or someone you know. Some viruses will replicate themselves and spread through email. Confirm that your contact really sent an attachment, if you think that the subject or content looks suspicious.
+ Do not open any files attached to an email if the subject line is questionable or unexpected.
+ Delete chain emails and junk email. Do not forward or reply to any of them. These types of email are considered spam because they are unsolicited messages that clog up inboxes and networks.
+ Do not download any files from strangers.
+ Do not click on any offer that claims you might be a winner.
+ Exercise caution when downloading files from the Internet. Ensure that the source is a legitimate and reputable one. Verify that an anti-virus program checks the files on the download site.
+ Update your anti-virus software regularly. You can schedule your computer to do this automatically. You should also keep your spyware and malware protection up to date. Running once and forgetting about the software is as bad as not having it on the computer!
+ Back up your files on a regular basis. If a virus destroys your files, at least you can replace them with your backup copy. You should store your backup copy in a separate location from your work files, one that is preferably not on your computer. Also periodically check your backups to make sure that they are still a good copy.
+ When in doubt, always err on the side of caution and do not open, download, or execute any files or email attachments. One mistake can cost you hours of lost work.
+ Virus Removal Tools
+ There comes a time, no matter how careful you are, when your poor computer catches something from the Internet! Below are a few links to companies that have Windows-based virus removal tools. Listing these links does not mean that IT or anyone in the university advocates any of these companies.
+ Most of the companies charge for their product. These links are to free virus repair and removal tools from these companies.
+ Anti-virus tools for Macs
+ The Mac version of McAfee can be installed on a university-owned Mac by a desktop consultant. To have this software installed, please call the IT Service Desk at 617.287.5220 or email itservicedesk@umb.edu.
+ If you would like to install anti-virus software on your personal Mac, there are several choices, including Sophos, McAfee, and Symantec. Sophos offers a free version of their product for home Macs. For more information, visit website 

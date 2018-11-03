@@ -1,0 +1,39 @@
+Data Breaches and the Encryption Safe Harbor  2012 Storage Networking Industry Association. All Rights Reserved. 2 2
+ SNIA Legal Notice
+ The material contained in this tutorial is copyrighted by the SNIA unless otherwise noted. Member companies and individual members may use this material in presentations and literature under the following conditions:
+ Any slide or slides used must be reproduced in their entirety without modification The SNIA must be acknowledged as the source of any material used in the body of any document containing material from these presentations.
+ This presentation is a project of the SNIA Education Committee. Neither the author nor the presenter is an attorney and nothing in this presentation is intended to be, or should be construed as legal advice or an opinion of counsel. If you need legal advice or a legal opinion please contact your attorney. The information presented herein represents the author's personal opinion and current understanding of the relevant issues involved. The author, the presenter, and the SNIA do not assume any responsibility or liability for damages arising out of any reliance on or use of this information. NO WARRANTIES, EXPRESS OR IMPLIED. USE AT YOUR OWN RISK.
+ Data Breaches and the Encryption Safe Harbor  2012 Storage Networking Industry Association. All Rights Reserved. 3 3
+ Abstract
+ As data breaches continue to plague organizations and the impacts to individuals increase, the statutory and regulatory responses become more severe. Nearly all states in the U.S. have passed data breach laws, which include costly breach notification requirements. The international community has adopted stringent privacy laws and some countries are now considering adding breach notification requirements as a further deterrent for organizations that haven't taken the requirements seriously. This session explores the complexities and ambiguities associated with these breach laws, especially when encryption can serve as a safe harbor. Recent massive breaches and lawsuits will be used as case studies.
+ Data Breaches and the Encryption Safe Harbor
+ Data Breaches and the Encryption Safe Harbor  2012 Storage Networking Industry Association. All Rights Reserved. 4
+ Encryption & Key Management Overview
+ Slide Number 1
+ SNIA Legal Notice
+ Abstract
+ A Few Definitions
+ Encryption Introduction
+ Encryption Algorithms(General Categories)
+ Key Management Introduction
+ Major Key Management Operations
+ Key Management Guidance (1)
+ Key Management Guidance (2)
+ Remember
+ What is a Data Breach?
+ Data Breach Consequences
+ Where Do Data Breaches Come From?(2012 Verizon Data Breach Investigation Report)
+ Data Breach Notification(U.S. Legal Requirements)
+ State Data Breach Notification Laws
+ Data Breach Notifications(Obligation Outside the U.S.)
+ EU Commission Proposal (1)(New Data Protection Regulation)
+ EU Commission Proposal (2)(New Data Protection Regulation)
+ What is Safe Harbor?
+ International Safe Harbor Privacy Principles
+ Encryption  A Safe Harbor?(Part 1)
+ Encryption  A Safe Harbor?(Part 2)
+ When is Encryption Not a Safe Harbor?
+ Action Plan to Prevent Data Breaches
+ Summary
+ SNIA Security Organizations
+ Attribution & Feedback 

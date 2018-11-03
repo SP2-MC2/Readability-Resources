@@ -1,0 +1,9 @@
+DB_URI = '' # define MongoDB URI
+DB_NAME = 'interactive_cloze'
+DOCUMENTS_DIR = '' # define directory where documents are stored
+CATEGORIES = ['health','security','stories','wiki']
+PUNCTUATIONS = '''``'!!!!!()-[]{};;;:'"\,,<>..../?@#$%^&*_~'''
+N_DOCS_TO_DISPLAY = 4
+STD_CLOZE_DISTANCE = 5
+SUCCESS_CODE_LEN = 10
+TOTAL_BLANKS = 35

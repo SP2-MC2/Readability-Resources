@@ -1,0 +1,6 @@
+Now that youve read about the basics, there are a few more things you should learn. First, read these two documents:
+ App Sandbox Design Guide tells you the things you need to know about designing code to run in a sandboxed environment before you write the first line of code.
+ Secure Coding Guide describes in more detail how to design code in ways that maximize security, and also describes what you do while actually writing the code to avoid security holes.
+ When youre ready to test your code, the static analyzer in Xcode is a great tool for uncovering a lot of common security bugs. Read Xcode Help to learn more about the kinds of testing and analysis that you can perform with Xcode.
+ After reading those documents, consider reading some of the documents listed in the rest of this appendix.
+ NextPrevious 

@@ -1,0 +1,37 @@
+Table of Contents
+ Orweb is an free Android-platform mobile phone application, created by the Guardian Project for browsing the internet anonymously in conjunction with Orbot.
+ Remain anonymous and bypass censorship on the Internet
+ Use mobile phones as securely as possible
+ Use smartphones as securely as possible
+ The ability to conceal your digital identity from the websites you visit
+ The ability to conceal the websites you visit
+ The ability to bypass Internet censorship and online filtering
+ Note: There is a bug in the current version of Orweb (0.6.1 and older) that may leak information about you, such as your IP address, to the website owners if you are viewing HTML5 based videos. Orweb will still allow you to circumvent censorship and prevent you from being spied on by your Internet Service Provider (ISP) but we do not recommend it to be used to view sites that may be considered hostile. For more information on the issue see the developers' response.
+ Orweb will only work properly after installing and configuring Orbot.
+ Remember, if you previously created a mail or blog without using Orweb, the site will still know your real location even if you return using Orweb.
+ If you want stronger anonymity while using Orweb other steps need to be taken including:
+ never access accounts made in your real name.
+ never give your personal data.
+ never do the same things that you do when not trying to be anonymous.
+ 1.0 Other tools like Orweb
+ iOS: OnionBrowser (non-free)
+ Step 1: On your Android device, download and install the app from the Google Play store store by tapping .
+ Note: Orweb can also be downloaded directly or from the third party F-Droid store.
+ Step 2: Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully. Once your are happy with the permissions that will be granted, press to start the installation. If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
+ Step 3: Once Orweb downloads and installation has completed, you can press to start the application.
+ Step 1: To open Orweb you tap the application's icon.
+ Step 2: Orweb will launch and automatically try to connect to website to ensure that its connection to the Tor network is working. If it can connect, you will see a message telling you that your browser is configured to use Tor. If Orweb can not connect to the website you will see an error message in the browser. If this happens, it is suggested that you check that Orbot is installed and running on your android device if this happens.
+ Figure 1 & 2: Orweb successfully connected and Orweb connection failure screens
+ Step 3: To browse to websites, tap the area at the top of the screen to the right of and type in the address you want to visit. Press Go on the onscreen keypad.
+ If you want to hide the type of device that you are using from the websites you visit, Orweb can be configured to pretend to be a number of different devices.
+ Step 1: Tap on the menu icon () found in the top right of the screen and tap .
+ Step 2: Once in the settings section, scroll down to the Privacy section and tap .
+ Step 3: You will be presented with a list of User Agents. Tap your choice (e.g. Tap iPhone to set it. Now any time you visit a website, it will think you are using an iPhone).
+ Step 1: To manually clear your browsing history and cache, and to hide the websites you have been visiting on your phone, tap on the menu icon () and press .
+ Step 2: To automatically remove your browsing history and cache as you go to a new page, Tap on the menu icon () followed by .
+ Step 3: In the settings screen, scroll down and tap Clear Back History.
+ Note: When you set this, you will not be able to press the back button to view web pages you have already visited.
+ Note: Deleting cookies will sign you out of any websites that you were logged into.
+ Step 1: Tap on the menu icon () found in the top right of the screen and tap Settings.
+ Step 2: Scroll down to the Cookies section and press .
+ Step 3: Tap to confirm the deleting of cookies. 
