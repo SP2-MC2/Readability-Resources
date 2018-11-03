@@ -19,6 +19,13 @@ We used python 3.6 for development, no testing was done with python 2.
 Fresh boot on a linux os with python3 and pip3:
 
 ```
+virtualenv env3 --python=python3
+```
+```
+source env3/bin/activate
+```
+
+```
 pip install -r requirements.txt
 ```
 ```
