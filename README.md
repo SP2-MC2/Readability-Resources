@@ -57,7 +57,10 @@ The code begins processing in ict.py. Please define some constants required in c
 
 ## Authors
 
-[Dhruv Kuchhal](https://github.com/dhruvkuchhal) and [Lisa Maszkiewicz](https://github.com/lmasz)
+[Dhruv Kuchhal](https://github.com/dhruvkuchhal), [Lisa Maszkiewicz](https://github.com/lmasz), [Elissa Redmiles](http://cs.umd.edu/~eredmiles).
+
+##Cite
+If you use this tool in an academic setting, please cite Redmiles et al. Digital Words: Moving Forward with Measuring the Readability of Online Texts https://drum.lib.umd.edu/handle/1903/21456.
 
 
 ## Contact Information
