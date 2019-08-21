@@ -1,4 +1,4 @@
-# This Repository: 300 human-written document comprehension questions and tools for generating Cloze tests
+# Human-written readability questions and tools for generating Cloze readability tests
 This repository contains: 
 - 300 human-written, expert validated comprehension questions for 100 documents
 - Code that can be used to generate both Smart and Traditional Cloze tests (see more detail below). 
