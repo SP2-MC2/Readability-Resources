@@ -82,7 +82,12 @@ The code begins processing in ict.py. Please define some constants required in c
 [Dhruv Kuchhal](https://github.com/dhruvkuchhal), [Lisa Maszkiewicz](https://github.com/lmasz), [Elissa Redmiles](http://cs.umd.edu/~eredmiles).
 
 ## Cite
-If you use this tool in an academic setting, please cite Comparing and Developing Tools to Measure the Readability of Domain-Specific Texts. Redmiles, E.M., Maszkiewicz, L., Hwang, E., Kuchhal, D., Liu, E., Morales, M., Peskov, D., Rao, S., Stevens, R., Gligoric, K., Kross, S., Mazurek, M.L. and Daume III, H. In Proceedings of EMNLP 2019. Available at: [http://www.cs.umd.edu/~eredmiles/emnlp2019](http://www.cs.umd.edu/~eredmiles/emnlp2019).
+If you use this tool in an academic setting, please cite 
+
+> Comparing and Developing Tools to Measure the Readability of Domain-Specific Texts.
+> Redmiles, E.M., Maszkiewicz, L., Hwang, E., Kuchhal, D., Liu, E., Morales, M., Peskov, D., Rao, S., Stevens, R., Gligoric, K., Kross, S., Mazurek, M.L. and Daume III, H. 
+> In Proceedings of EMNLP 2019. 
+> Available at: [http://www.cs.umd.edu/~eredmiles/emnlp2019](http://www.cs.umd.edu/~eredmiles/emnlp2019).
 
 ## Contact Information
 This work is part of an ongoing research project at the University of Maryland. Please contact Elissa Redmiles (eredmiles@cs.umd.edu) or Michelle Mazurek (mmazurek@cs.umd.edu) with questions / concerns.
