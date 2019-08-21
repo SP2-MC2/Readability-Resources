@@ -4,13 +4,13 @@ import math
 import pandas as pd
 from bson import ObjectId
 
-DB_URI = 'mongodb://dhruv:elissa@cloze.cs.umd.edu:27017/admin'
+DB_URI = 'mongodb://<YOUR DATABASE>/admin'
 DB_NAME = 'interactive_cloze'
 
 mongo_cursor = MongoClient(DB_URI, connect = False)
 db = mongo_cursor[DB_NAME]
 
-CSV_FILE = "wiki_story_survey"
+CSV_FILE = "raw_survey"
 
 COLLECTION_NAME = "survey"
 
