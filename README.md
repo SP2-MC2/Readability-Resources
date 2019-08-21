@@ -1,9 +1,20 @@
 # This Repository: 300 human-written document comprehension questions and tools for generating Cloze tests
 This repository contains: 
-- 300 human-written, expert validated comprehension questions for 100 documents (25 security advice documents, 25 health advice documents, 25 Wikipedia articles, and 25 stories from the MCTest dataset). You can use these questions as a baseline to compare with other measures of text readability you might apply to our sample documents (in the documents folder). 
+- 300 human-written, expert validated comprehension questions for 100 documents
 - Code that can be used to generate both Smart and Traditional Cloze tests (see more detail below). 
 
 These resources were used to evaluate the validity of different measures of adult readability for online (and domain-specific) texts. You can learn more by reading the paper ["Comparing and Developing Tools to Measure the Readability of Domain-Specific Texts" published in EMNLP 2019] (http://www.cs.umd.edu/~eredmiles/emnlp2019).
+
+## Human Written Comprehension Questions
+The comprehension questions directory contains 300 human-written comprehension questions that were validated by a test creation expert. There are 3 questions for each of 100 documents (25 Wikipedia articles, 25 stories from the [MCTest dataset](https://www.microsoft.com/en-us/research/publication/mctest-challenge-dataset-open-domain-machine-comprehension-text/), 25 health advice documents, and 25 security and privacy advice documents). You can find the documents in the ```documents``` directory. 
+
+You can use these human-written comprehension questions as a baseline to compare with other measures of text readability you might apply to our sample documents. This baseline can, for example, help you validate new measures of text readability.
+
+In the comprehension question directory you can find:
+- A Qualtrics survey (```comprehension.qsf```) already set up to ask the comprehension questions for each documents
+- A word document and PDF document containing all of the comprehension questions and corresponding documents (```comprehension_questions.doc``` and ```.pdf```, respectively)
+- A JSON file (```survey_key.json```) and scoring script (```score_survey.py```) that can be used to score the qualtrics survey
+- And a dataset of 338 Amazon Mechanical Turk workers' answers to our comprehension questions (```comprehension_results.csv```)
 
 ## Generating Cloze Tests
 
